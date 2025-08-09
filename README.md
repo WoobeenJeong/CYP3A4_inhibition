@@ -1,8 +1,6 @@
-# CYP3A4_inhibition
+# Drug CYP3A4 inhibition Prediction
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c6f0cefe-a8e1-4c5c-86ad-f2c97e906c46" />
-
-
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a1da63c2-618a-4b33-a249-2e545fca55ed" />
+<img width="1688" height="1125" alt="image" src="https://github.com/user-attachments/assets/f63803e4-3d29-44fc-a49c-cb80f3423d1c" />
 
 
+<img width="1688" height="1125" alt="image" src="https://github.com/user-attachments/assets/e6312b1c-04ab-4d67-afa1-a6fd927b1fc5" />
